@@ -1,0 +1,3 @@
+python -m pip install jupyter_contrib_nbextensions
+jupyter contrib nbextension install --user --skip-running-check
+conda install -c conda-forge rise
