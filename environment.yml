@@ -1,0 +1,16 @@
+dependencies:
+  - python=3.6
+  - pip:
+    - ipykernel
+    - scipy
+    - sympy
+    - scikit-learn
+    - keras
+    - tensorflow
+    - pandas
+    - matplotlib
+    - seaborn
+    - nltk
+    - gensim
+    - spacy
+    - thinc
